@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://livingamonganimals.com/" }
+    { "source": "/:year/:month/:day/:postname*", "destination": "https://livingamonganimals.com//:year/:month/:day/:postname" }
   ]
 }
