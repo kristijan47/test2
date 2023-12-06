@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://livingamonganimals.com//:splat" }
+    { "source": "/(.*)", "destination": "https://livingamonganimals.com/" }
   ]
 }
